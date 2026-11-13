@@ -1,0 +1,7 @@
+INVOICE
+Invoice Number: INV-2026-104
+Date: 2026-11-10
+Supplier: Example Office Supplies
+Subtotal: 1250.00
+Tax: 225.00
+Total: 1475.00
